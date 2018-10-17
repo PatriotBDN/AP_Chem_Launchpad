@@ -11,6 +11,7 @@ h1{
 padding-top: 22px;
 text-align: center;
 font-size: 42px;
+font-weight: bold;
 font-family: 'Oxygen';
 }
 
@@ -35,26 +36,6 @@ font-family: 'Oxygen';
   background-color: #ffffff;
   color: black;
   border-radius: 1em;
-}
-
-.Left-Third {
-  border-radius: 1em;
-  padding: 10px;
-  background-color: #59ff93;
-  box-shadow: 0px 4px 6px #333;
-}
-
-.Middle-Third {
-  border-radius: 1em;
-  background-color: #bb50ed;
-  box-shadow: 0px 4px 6px #333;
-}
-
-.Right-Third {
-  border-radius: 1em;
-  padding: 10px;
-  background-color: #8eafe2;
-  box-shadow: 0px 4px 6px #333;
 }
 
 h2{
