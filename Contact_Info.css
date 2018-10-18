@@ -1,6 +1,6 @@
 
 body {
-  background-color: #F7ddd4;
+  background-color: #FFE089;
   color: #333333;
   margin-left: auto;
   margin-right: auto;
@@ -8,6 +8,7 @@ body {
 }
 
 h1{
+color: #0F9EFB;
 padding-top: 22px;
 text-align: center;
 font-size: 42px;
