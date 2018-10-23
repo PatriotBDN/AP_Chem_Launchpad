@@ -38,6 +38,35 @@ font-family: 'Oxygen';
   border-radius: 1em;
 }
 
+/*For the smaller devices*/
+.navbar-menu.menu-shown {
+      background-color: #66c2ff;
+    }
+
+    .menu-toggle {
+      color: #000000;
+    }
+
+    .menu-dismiss {
+      color: #0000;
+    }
+
+    .menu-shown a:link,
+    .menu-shown a:visited {
+      color: #000000;
+      font-family: 'Anton';
+      font-weight: bold;
+
+    }
+
+    .menu-shown a:active,
+    .menu-shown a:hover {
+      background-color: #ffffff;
+      color: black;
+      border-radius: 1em;
+    }
+
+
 .Left-Third {
   border-radius: 1em;
   padding: 10px;
@@ -61,6 +90,14 @@ font-family: 'Oxygen';
 .middle_row {
   border-radius: 1em;
   padding: 10px;
+  background-color: #FF865C;
+  box-shadow: 0px 4px 6px #333;
+}
+
+.middle_row_JtP {
+  border-radius: 1em;
+  padding: 10px;
+  margin-top: 20px;
   background-color: #FF865C;
   box-shadow: 0px 4px 6px #333;
 }
